@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hhh4contacts"]
+	path = hhh4contacts
+	url = https://github.com/cran/hhh4contacts
+	shallow = true
+	registered = true
 [submodule "polyCub"]
 	path = polyCub
 	url = https://github.com/bastistician/polycub
