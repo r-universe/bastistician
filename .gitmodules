@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "hhh4contacts"]
 	path = hhh4contacts
-	url = https://github.com/cran/hhh4contacts
+	url = https://codeberg.org/ee-hub/hhh4contacts
 [submodule "polyCub"]
 	path = polyCub
 	url = https://github.com/bastistician/polycub
